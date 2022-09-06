@@ -1,1 +1,1 @@
-# ProyectoSeguros
+# Seguros
